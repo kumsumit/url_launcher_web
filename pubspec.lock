@@ -101,7 +101,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1d6e1c5fae93958d50ce0595ef687d8195088d21"
+      resolved-ref: "3f77202a425698dc76188933bde3738a0df4b21e"
       url: "https://github.com/kumsumit/plugin_platform_interface.git"
     source: git
     version: "2.1.6"
@@ -163,7 +163,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b70f1c90590f8e2bf44eb84872282d0bfd74bdf9
+      resolved-ref: ea6e4db740d406561dd53b5acf7181406572a35d
       url: "https://github.com/kumsumit/url_launcher_platform_interface.git"
     source: git
     version: "2.1.5"

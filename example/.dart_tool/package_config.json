@@ -75,7 +75,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -285,9 +285,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "pool",
@@ -399,7 +399,7 @@
     },
     {
       "name": "url_launcher_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_platform_interface-b70f1c90590f8e2bf44eb84872282d0bfd74bdf9/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/url_launcher_platform_interface-ea6e4db740d406561dd53b5acf7181406572a35d/",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -458,7 +458,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-12T07:17:31.808213Z",
+  "generated": "2023-09-22T15:08:51.779540Z",
   "generator": "pub",
-  "generatorVersion": "3.1.1"
+  "generatorVersion": "3.1.2"
 }
