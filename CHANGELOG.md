@@ -1,3 +1,15 @@
+## 2.3.3
+
+* Changes `launchUrl` so it always returns `true`, except for disallowed URL schemes.
+
+## 2.3.2
+
+* Adds support for `web: ^1.0.0`.
+
+## 2.3.1
+
+* Implements correct handling of keyboard events with Link.
+
 ## 2.3.0
 
 * Updates web code to package `web: ^0.5.0`.
@@ -24,7 +36,7 @@
 ## 2.1.0
 
 * Adds `launchUrl` implementation.
-* Prevents _Tabnabbing_ and disallows `javascript:` URLs on `launch` and `launchUrl`. 
+* Prevents _Tabnabbing_ and disallows `javascript:` URLs on `launch` and `launchUrl`.
 
 ## 2.0.20
 
